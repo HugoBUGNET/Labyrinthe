@@ -1,3 +1,3 @@
 # HUGO BUGNET-SALLES
 
-* [labyrinthe](./labirynthe.html)
+* [labyrinthe](./labyrinthe.html)
